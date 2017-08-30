@@ -4,3 +4,5 @@ Create a list of all the various kinds of data you will enconter as a pharmacist
 2. List of various drug interactions
 3. Common dosages
 4. List of drugs with generic substitution if applicable
+5. List of cost of drugs with generic substitutions
+
