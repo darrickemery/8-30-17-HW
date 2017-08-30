@@ -1,0 +1,6 @@
+Create a list of all the various kinds of data you will enconter as a pharmacist. In the command log, submit several. Ask for someones address for their repository and submit a pull request and try to submit one of those. 
+
+1. Kinetics of a drug
+2. List of various drug interactions
+3. Common dosages
+4. List of drugs with generic substitution if applicable
